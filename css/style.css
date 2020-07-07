@@ -1,0 +1,110 @@
+.container{
+    margin-bottom: 100px;
+}
+.card{
+    border: none;
+}
+#banner-container{
+    border-radius: 10px;
+    background-color: #FEEAE9;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.price{
+    color: #FF2178;
+}
+
+.buy-now-btn{
+    color: #FEEAE9;
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    background-image: linear-gradient(to right,#FF2178,#FFC221 );
+}
+
+.categorise h1{color: aliceblue;}
+
+.categorise img{
+    width: 100px;
+}
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 30px;
+    border-radius: 15px;
+    margin: 5px;
+}
+.cat-1{
+  
+    background-image: linear-gradient(to right,#4551fd,#0459f7 );
+   
+}
+
+.cat-2{
+    background-image: linear-gradient(to bottom,#d1d348e7,#FFC221 );
+
+}
+.cat-3{
+    background-image: linear-gradient(to bottom,#FF2178,#FFC221 );
+ 
+}
+
+/* .img-bg img{
+    background-image: linear-gradient(to left,#FF2178,#FFC221 );
+    height: 200px;
+    border-radius: 10px;
+    width: 150;
+   
+} */
+
+
+.shoes-items img{
+    width: 300px;
+    
+    
+}
+.shoes-items h3{
+    padding: 10px 20px;
+}
+.shoes-items p{
+    padding: 5px 20px;
+}
+.cus-shoe-bg{
+    background-color: #fff;
+    border: 1px solid #fff;
+  margin-bottom: 10px;
+  box-shadow: 2px 0px 5px 1px rgba(0,0,0,0.42);
+  transition: all .3s ease-in-out;
+}
+
+.shoe-btn{
+   margin:0px 0px 5px 8px ;
+}
+
+.cus-shoe-bg:hover{
+  transform: scale(1.1);
+}
+
+.bags-shadow{
+    box-shadow: 2px 0px 5px 1px rgba(0,0,0,0.42);
+}
+
+
+.get-in-touch{
+  
+  
+    background-color: thistle;
+    text-align: center;
+    padding: 100px;
+}
+
+.get-in-touch input{
+border: none;
+padding: 10px;
+align-content: center;
+}
+
+footer{
+    text-align: center;
+}
