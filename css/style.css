@@ -95,14 +95,14 @@
   
   
     background-color: thistle;
-    text-align: center;
+    
     padding: 100px;
 }
 
 .get-in-touch input{
 border: none;
 padding: 10px;
-align-content: center;
+/* align-content: center; */
 }
 
 footer{
